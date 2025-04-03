@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "361760513317",
+    "project_id": "vehiclebreakdownapplication",
+    "storage_bucket": "vehiclebreakdownapplication.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:361760513317:android:c6bc6bf99d44c7e3954ecc",
+        "android_client_info": {
+          "package_name": "com.sneha.vehiclebreakdown.vehicle_breakdown"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXlESx20VVcZ-CgQ7ElgxAatMiHDmk2Qo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
